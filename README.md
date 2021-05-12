@@ -5,3 +5,4 @@ A small repository for tiny scripts that give insight into product or service st
 
 - FFXIV
 -- World Status
+-- Other
